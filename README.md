@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Photo Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See the deployed project at https://cynogriffin.github.io/photo-port/ 
+
+Built with React 
 
 ## Available Scripts
 
